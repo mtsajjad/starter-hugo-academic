@@ -1,26 +1,30 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Tariq Sajjad
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Senior Lecturer in Energy Engineering and Materials Devices
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: London South BanK University
+  url: https://www.lsbu.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Solar Cells
+- Thermoelectric Devices
+- Physics of Semiconductor Materials
+- Light-Emitting Devices
+- Visible Light Communication (VLC)
+- Sensors
+- Photocatalysis
 
 # Education to show in About widget
 education:
@@ -64,14 +68,14 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "sajjadt@lsbu.ac.uk"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Tariq Sajjad is a Senior Lecturer in Energy Engineering and Materials Devices in the School of Engineering at London South Bank University (LSBU), London and a member of the London Centre for Energy Engineering (LCEE) in the same School. He founded and leads the Energy Engineering and Materials Devices (TEMD) group at LSBU. Prior to joining LSBU as a lecturer in December 2019, he worked at Organic Semiconductor Centre (OSC), University of St Andrews, first as a research fellow and then as a senior research fellow, where he made a broad contribution across the fields of optoelectronic materials and devices. In St Andrews, he also worked as coordinator of two centres (Advanced Functional Materials Research Centre and Organic Semiconductor Centre), where he (with Dr Miller) has developed and administered a facility for fabrication, structural and functional characterisation of materials at the nanoscale. He received his MSc and PhD, both from Advanced Technology Institute (ATI), University of Surrey, UK. During his PhD, he has investigated the exciton dynamics in carbon nanotubes (CNTs) for their possible application in solar cells and lasing.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Tariq has made a significant contribution to the field of energy and sustainability. In recognition of his contribution to the field, the Royal Society of Chemistry (RSC, UK) recognized him as one of the emerging investigators in the field of energy and invited him for an article in the Journal of Materials Chemistry A Emerging Investigators Theme Issue 2020.1 EPSRC recently invited him to become a member of peer Review College. He is also working as a topic editor of journal “Coatings”
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
